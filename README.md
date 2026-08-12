@@ -24,7 +24,7 @@ A React-based Flight Schedule application built using **Skyscanner Backpack UI c
 
 ## 📸 Application Screenshot
 
-![Backpack Flight Schedule](./Screenshot%202026-08-12%20142622.png)
+<img width="1908" height="853" alt="Backpack Flight Schedule" src="https://github.com/user-attachments/assets/9daa64e8-a71f-4fd4-b4cd-5509402bf10a" />
 
 ## 📁 Project Structure
 
@@ -39,5 +39,4 @@ backpack-flight-schedule/
 │   └── index.css
 ├── package.json
 ├── package-lock.json
-└── README.md<img width="1908" height="853" alt="Screenshot 2026-08-12 142622" src="https://github.com/user-attachments/assets/9daa64e8-a71f-4fd4-b4cd-5509402bf10a" />
-<img width="1908" height="853" alt="Screenshot 2026-08-12 142622" src="https://github.com/user-attachments/assets/daed7b6b-2b9d-475d-b8db-1853c9f234d8" />
+└── README.md
